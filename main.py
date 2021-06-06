@@ -1,7 +1,4 @@
 from user_agent import generate_user_agent
-
-from typing import Callable, Dict, List
-
 import requests
 import urllib3
 from lxml import html
